@@ -7,3 +7,5 @@ Arquivo
 Enviando 
 Funcionalidade 
 X
+Adicionando Funcionalidade
+2
